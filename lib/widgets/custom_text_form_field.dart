@@ -209,4 +209,6 @@ enum TextFormFieldVariant {
 }
 
 enum TextFormFieldFontStyle {
-  InterRegula
+  InterRegular967,
+  BookmanOldStyle20,
+}

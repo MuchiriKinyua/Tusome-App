@@ -173,4 +173,6 @@ enum ButtonVariant {
 
 enum ButtonFontStyle {
   BookmanOldStyle1747,
-  BookmanOldSty
+  BookmanOldStyle20,
+  BookmanOldStyle24,
+}
