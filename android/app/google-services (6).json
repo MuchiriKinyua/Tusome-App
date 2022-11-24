@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894931716614",
+    "project_id": "tusome-app-2a9f7",
+    "storage_bucket": "tusome-app-2a9f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894931716614:android:d70c5aac772d59946f1187",
+        "android_client_info": {
+          "package_name": "com.tusomeoffice.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894931716614-3l02vud7fk4ouf3nr7cog358f3rl3jgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA80jZUZfOxA7OKqJjItBmGbISGRp_ga6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894931716614-3l02vud7fk4ouf3nr7cog358f3rl3jgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
